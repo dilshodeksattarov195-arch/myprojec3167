@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routerfecrypt",
+        "uuid": 10397261,
+        "checksum": "fyty9"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
